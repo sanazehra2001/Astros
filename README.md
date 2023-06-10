@@ -29,3 +29,9 @@ As the expeditionary force gains points, they enter into higher levels (up to le
 
 ## External Libraries
 pygame
+
+<img width="960" alt="image" src="https://github.com/sanazehra2001/Astros/assets/76579833/175a0c56-8dfb-4fca-8fe4-7132401325e6">
+<img width="960" alt="image" src="https://github.com/sanazehra2001/Astros/assets/76579833/e605f5be-fdc6-4f94-88a1-d72c23d8811a">
+<img width="960" alt="image" src="https://github.com/sanazehra2001/Astros/assets/76579833/690407fe-3d83-4ca8-b60a-663d6003bb18">
+<img width="960" alt="image" src="https://github.com/sanazehra2001/Astros/assets/76579833/0ac4db0a-7726-4ba0-bb36-00811292d477">
+
